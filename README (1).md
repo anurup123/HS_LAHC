@@ -39,7 +39,7 @@ doi = {10.1016/j.eswa.2023.119745}
 
 ## Workflow Screenshot
 
-![Workflow Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Workflow Screenshot](https://github.com/anurup123/HS_LAHC/blob/main/Harmony%20Serch.drawio-1.png)
 
  Find the original paper [here](https://www.sciencedirect.com/science/article/pii/S0957417423002464)
 
